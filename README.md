@@ -4,20 +4,19 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+July 1, 2017
 
 ### Student Name:  
-(First and Last Name)
+Maxwell Chiu
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, an income tax calculator is created using basic Javascript functions.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://mchiu004.github.io/lesson5_javascript2/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. Declaring, modifying, and displaying variables.
+2. Use of Javascript method, getElementById(), to reference elements on a web page.
+3. Use of boolean or if/else statments to make decisions.
 
